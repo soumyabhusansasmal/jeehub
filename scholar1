@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<html>
+
+<body style="background-color: #EEEEEE;">
+
+
+<div id="header" style="width: 1024px;
+margin: 0 auto;
+background: #FFA500;
+box-shadow: 0 8px 6px rgba(0,0,0,0.5);
+margin-bottom: 5px;
+padding: 0 0 12px 0;
+overflow: visible;">
+<HEAD>
+
+<style>
+
+h1
+
+{
+
+text-shadow: 5px 5px 5px #FF0000;
+
+}
+
+</style>
+
+</head>
+<h1>
+<CENTER>
+MY JEE HUB
+</CENTER>
+</h1>
+
+
+
+<div id="menu" style="background-color:#FFA500;height:75px;">
+
+
+
+<style>
+
+#nav ul 
+{
+padding: 0;
+ margin:;0; list-style-type:none;
+}
+
+#nav li {display: inline;}
+
+#nav li a {font-family: algerian;font-size:20px;text-decoration: none;float:left;padding: 12px;background-color: #999999;color: #0038A8; border-bottom:0px solid #000;}
+
+#nav li a:hover 
+{background-color: #BFCDE9; color: #FFFFFF; padding-bottom:12px; border-bottom:0px solid #000; margin:-1px;}
+
+</style>
+
+<div id="main-nav">
+
+<ul id="nav" style="clear:both;">
+
+<li>
+
+<a href="/home/kjsce/Desktop/93/site/index.html"><img src="/home/kjsce/Desktop/93/site/Home.png" width="40" height="20"></a>
+</li>
+<li>
+<a href="#">College Guide</a>
+</li>
+
+
+<li>
+<a href="#">Courses</a>
+</li>
+
+<li>
+<a href="#">exams</a>
+</li>
+<li>
+<a href="/home/kjsce/Desktop/93/site/scholarship">Scholarships</a>
+</li>
+<li>
+<a href="#">Library</a>
+</li>
+<li>
+<a href="#">Admission</a>
+</li>
+<li>
+<a href="/home/kjsce/Desktop/93/site/contact%20us">contact us</a>
+</li>
+</ul>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="contener" style="background-color:#FFA500;">
+
+
+
+
+
+
+
+	<div id="contener1" style="background-color:#FFA500;margin-top: 15px;margin-bottom: 12px;overflow: hidden;">
+
+
+
+
+
+
+		
+	
+	
+	
+<div id="info" style="width: 1000px;height: 650px;margin: 0 auto;background: #FFFFFF;box-shadow: 0 8px 6px rgba(0,0,0,0.5);margin-bottom: 5px;padding: 0 0 12px 0;overflow: visible;">
+	
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>		
+
+<p><span style="font-size: 16px;">Navtej Kohli Scholarship
+</p></span>
+<p><span style="font-size: 16px;">MASTER’s scholarship in engineering for students to study anywhere in India</p></span>
+
+<p><span style="font-size: 16px;">Scholarship: Navtej Kohli Scholarship </p></span>
+
+<p><span style="font-size: 16px;">Objective: To assist those wishing to pursue their higher education in engineering. </p></span>
+
+<p><span style="font-size: 16px;">Financial assistance: Rs. 1 Lakh to one outstanding student </p></span>
+
+<p><span style="font-size: 16px;">Eligibility: </p></span>
+
+    Scholarship is open to students in the region of Delhi.
+    Candidates must be of such an age that they will have passed their 22nd and not have passed their 28th birthday on the 1st October 2012.
+    Must have a first class degree in B.Tech, BE or BCA an accredited college.
+    Those who are in their final year of a degree course may also apply, however, selection will be conditional based on final year results.</p></span>
+
+<p><span style="font-size: 16px;">Selection process:
+
+    Applicants are assessed for their intellectual distinction, character, commitment to service, socio-financial status and technical acumen.
+    First stage, all the candidates from Delhi region would send in their required details through our online application form.
+    Second stage will involve screening process and personal interviews to shortlist candidates for the final interview.</p></span>
+
+<p><span style="font-size: 16px;">How to apply: Click here to download application form </p></span>
+
+<p><span style="font-size: 16px;">SEND the filled out application form to - apply@navtejkohlischolarship.com</p></span>
+
+<p><span style="font-size: 16px;">Application deadline: March 1, 2012</p></span>
+
+<p><span style="font-size: 16px;">Click here to view all details </p></span>
+
+<p><span style="font-size: 16px;">Email: info@navtejkohlischolarship.com</p></span>
+
+<p><span style="font-size: 16px;"><a href="http://www.navtejkohlischolarship.com/cgi-sys/suspendedpage.cgi">Website: www.navtejkohlischolarship.com</a></p></span>
+
+		
+    
+
+	</div>
+</div>
+</div>
+

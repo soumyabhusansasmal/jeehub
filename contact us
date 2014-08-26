@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<html>
+
+<body style="background-color: #EEEEEE;">
+
+
+<div id="header" style="width: 1024px;
+margin: 0 auto;
+background: #FFA500;
+box-shadow: 0 8px 6px rgba(0,0,0,0.5);
+margin-bottom: 5px;
+padding: 0 0 12px 0;
+overflow: visible;">
+<HEAD>
+
+<style>
+
+h1
+
+{
+
+text-shadow: 5px 5px 5px #FF0000;
+
+}
+
+</style>
+
+</head>
+<h1>
+<CENTER>
+MY JEE HUB
+</CENTER>
+</h1>
+
+
+
+<div id="menu" style="background-color:#FFA500;height:75px;">
+
+
+
+<style>
+
+#nav ul 
+{
+padding: 0;
+ margin:;0; list-style-type:none;
+}
+
+#nav li {display: inline;}
+
+#nav li a {font-family: algerian;font-size:20px;text-decoration: none;float:left;padding: 12px;background-color: #999999;color: #0038A8; border-bottom:0px solid #000;}
+
+#nav li a:hover 
+{background-color: #BFCDE9; color: #FFFFFF; padding-bottom:12px; border-bottom:0px solid #000; margin:-1px;}
+
+</style>
+
+<div id="main-nav">
+
+<ul id="nav" style="clear:both;">
+
+<li>
+
+<a href="C:\Documents and Settings\Administrator\Desktop\we project\jee hub\index.html"><img src="C:\Documents and Settings\Administrator\Desktop\we project\jee hub\Home.png" width="40" height="20"></a>
+</li>
+<li>
+<a href="#">College Guide</a>
+</li>
+
+
+<li>
+<a href="#">Courses</a>
+</li>
+
+<li>
+<a href="#">exams</a>
+</li>
+<li>
+<a href="C:\Documents and Settings\Administrator\Desktop\we project\jee hub\scholarship">Scholarships</a>
+</li>
+<li>
+<a href="#">Library</a>
+</li>
+<li>
+<a href="#">Admission</a>
+</li>
+<li>
+<a href="C:\Documents and Settings\Administrator\Desktop\we project\jee hub\contact%20us">contact us</a>
+</li>
+</ul>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="contener" style="background-color:#FFA500;">
+
+
+
+
+
+
+
+	<div id="contener1" style="background-color:#FFA500;margin-top: 15px;margin-bottom: 12px;overflow: hidden;">
+
+
+
+
+
+
+		
+	
+	
+	
+<div id="info" style="width: 1000px;height: 1000px;margin: 0 auto;background: #FFFFFF;box-shadow: 0 8px 6px rgba(0,0,0,0.5);margin-bottom: 5px;padding: 0 0 12px 0;overflow: visible;">
+	
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>		
+
+		<p><span style="font-size: 16px;">     
+
+    For Subscription
+    Email: yourhelpline@outlookindia.com
+    Email: yourhelpline.outlook@gmail.com
+    Tel: 011-33505550
+</p></span>
+<p><span style="font-size: 16px;">
+    For Advertisement
+    Email: advertisement@MYJEEHUB.in
+</p></span>
+<p><span style="font-size: 16px;">
+    For Ranking and Rating Survey (Engineering Rating\BSchool Ranking)
+
+    Please do mention clearly in your mail, that you wish to participate in engineering or bschool ranking.
+    Email: engineering@MYJEEHUB.com
+    Email: bschool@MYJEEHUB.com
+</p></span>
+<p><span style="font-size: 16px;">    
+For General Info</p></span>
+    <p><span style="font-size: 16px;">Email: info@MYJEEHUB.in</p></span>
+    <p><span style="font-size: 16px;">For College Fest/Sponsorship</p></span>
+    <p><span style="font-size: 16px;">Email: Campusconnect@MYJEEHUB.in
+    </p></span>
+<p><span style="font-size: 16px;">
+    Publisher</p></span>
+    <p><span style="font-size: 16px;">SWAPNIL SHINDE</p></span>
+    <p><span style="font-size: 16px;">Email: shindeswapnil707@gamil.com</p></span>
+    <p><span style="font-size: 16px;">Editor</p></span>
+    <p><span style="font-size: 16px;">SOUMYABHUSAN SASMAL </p></span>
+    <p><span style="font-size: 16px;">Email: msasmal@gmail.com</p></span>
+    <p><span style="font-size: 16px;">Head Office 6, Panchsheel Shopping Centre,</p></span>
+    <p><span style="font-size: 16px;">Near Shahpur Jat,</p></span>
+    <p><span style="font-size: 16px;">Off August Kranti Marg</p></span>
+    <p><span style="font-size: 16px;">New Delhi -110017</p></span>
+    <p><span style="font-size: 16px;">Tel: 011-4929 1111</p></span>
+    <p><span style="font-size: 16px;">Fax: 011-4929 1122</p></span>
+    <p><span style="font-size: 16px;">Magazine Subscription</p>
+</span>
+    <p><span style="font-size: 16px;">If you are currently a subscriber or wish to start subscribing, reach us at:</p></span>
+    <p><span style="font-size: 16px;">Delhi: (011) 33505500 Extn 236/ 237/ 362/ 353 & 367</p></span>
+    <p><span style="font-size: 16px;">Mumbai: (022) 67382222</p></span>
+   <p><span style="font-size: 16px;"> Kolkata: (033) 40085012</p></span>
+    <p><span style="font-size: 16px;">Chennai: (044) 28582251/52</p></span>
+    <p><span style="font-size: 16px;">Bangalore: (080) 25582806/07</p></span>
+    <p><span style="font-size: 16px;">Hyderabad: (040) 23375776</p></span>
+
+
+	</div>
+</div>
+</div>
+

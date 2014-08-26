@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<html>
+
+<body style="background-color: #EEEEEE;">
+
+
+<div id="header" style="width: 1024px;
+margin: 0 auto;
+background: #FFA500;
+box-shadow: 0 8px 6px rgba(0,0,0,0.5);
+margin-bottom: 5px;
+padding: 0 0 12px 0;
+overflow: visible;">
+<HEAD>
+
+<style>
+
+h1
+
+{
+
+text-shadow: 5px 5px 5px #FF0000;
+
+}
+
+</style>
+
+</head>
+<h1>
+<CENTER>
+MY JEE HUB
+</CENTER>
+</h1>
+
+
+
+<div id="menu" style="background-color:#FFA500;height:75px;">
+
+
+
+<style>
+
+#nav ul 
+{
+padding: 0;
+ margin:;0; list-style-type:none;
+}
+
+#nav li {display: inline;}
+
+#nav li a {font-family: algerian;font-size:20px;text-decoration: none;float:left;padding: 12px;background-color: #999999;color: #0038A8; border-bottom:0px solid #000;}
+
+#nav li a:hover 
+{background-color: #BFCDE9; color: #FFFFFF; padding-bottom:12px; border-bottom:0px solid #000; margin:-1px;}
+
+</style>
+
+<div id="main-nav">
+
+<ul id="nav" style="clear:both;">
+
+<li>
+
+<a href="/home/kjsce/Desktop/93/site/index.html"><img src="/home/kjsce/Desktop/93/site/Home.png" width="40" height="20"></a>
+</li>
+<li>
+<a href="#">College Guide</a>
+</li>
+
+
+<li>
+<a href="#">Courses</a>
+</li>
+
+<li>
+<a href="#">exams</a>
+</li>
+<li>
+<a href="/home/kjsce/Desktop/93/site/scholarship">Scholarships</a>
+</li>
+<li>
+<a href="#">Library</a>
+</li>
+<li>
+<a href="#">Admission</a>
+</li>
+<li>
+<a href="/home/kjsce/Desktop/93/site/contact%20us">contact us</a>
+</li>
+</ul>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="contener" style="background-color:#FFA500;">
+
+
+
+
+
+
+
+	<div id="contener1" style="background-color:#FFA500;margin-top: 15px;margin-bottom: 12px;overflow: hidden;">
+
+
+
+
+
+
+		
+	
+	
+	
+<div id="info" style="width: 1000px;height: 600px;margin: 0 auto;background: #FFFFFF;box-shadow: 0 8px 6px rgba(0,0,0,0.5);margin-bottom: 5px;padding: 0 0 12px 0;overflow: visible;">
+	
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>		
+
+		
+    <p><span style="font-size: 16px;"><a href="/home/kjsce/Desktop/93/site/scholar1">Indian Oil Academic Scholarships </a></p></span>
+   <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+   <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+    <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+   <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+   <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+   <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+   <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+    <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+    <p><span style="font-size: 16px;"><a href="#">Indian Oil Academic Scholarships </a></p></span>
+    
+
+	</div>
+</div>
+</div>
+

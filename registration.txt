@@ -1,0 +1,95 @@
+<!DOCTYPE HTML> 
+<html>
+<head>
+<style>
+.error {color: #FF0000;}
+</style>
+</head>
+<body> 
+
+<?php
+// define variables and set to empty values
+$nameErr = $usernameErr = $genderErr = $passwordErr = "";
+$name = $username = $gender = $password = "";
+
+if ($_SERVER["REQUEST_METHOD"] == "POST")
+{
+   if (empty($_POST["name"]))
+     {$nameErr = "Name is required";}
+   else
+     {
+     $name = test_input($_POST["name"]);
+     // check if name only contains letters and whitespace
+     if (!preg_match("/^[a-zA-Z ]*$/",$name))
+       {
+       $nameErr = "Only letters and white space allowed"; 
+       }
+     }
+   
+if (empty($_POST["username"]))
+     {$usernameErr = "username is required";}
+   else
+     {
+     $username = test_input($_POST["username"]);
+     
+     }
+   if (empty($_POST["password"]))
+     {$nameErr = "password is required";}
+   else
+     {
+     $password = test_input($_POST["password"]);
+     // check if name only contains letters and whitespace
+     if ($password<8 || $password>20)
+       {
+       $passwordErr = " length of password should be greater than 8 and less than 20 "; 
+       }
+     }
+   
+   if (empty($_POST["gender"]))
+     {$genderErr = "Gender is required";}
+   else
+     {$gender = test_input($_POST["gender"]);}
+}
+
+function test_input($data)
+{
+     $data = trim($data);
+     $data = stripslashes($data);
+     $data = htmlspecialchars($data);
+     return $data;
+}
+?>
+<h2>REGISTRATION FORM</h2>
+<p><span class="error">* required field.</span></p>
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>"> 
+   Name: <input type="text" name="name" value="<?php echo $name;?>">
+   <span class="error">* <?php echo $nameErr;?></span>
+   <br><br>
+   E-mail: <input type="text" name="username" value="<?php echo $username;?>">
+   <span class="error">* <?php echo $usernameErr;?></span>
+   <br><br>
+   Website: <input type="text" name="password" value="<?php echo $password;?>">
+   <span class="error">*<?php echo $passwordErr;?></span>
+   <br><br>
+
+   Gender:
+   <input type="radio" name="gender" <?php if (isset($gender) && $gender=="female") echo "checked";?>  value="female">Female
+   <input type="radio" name="gender" <?php if (isset($gender) && $gender=="male") echo "checked";?>  value="male">Male
+   <span class="error">* <?php echo $genderErr;?></span>
+   <br><br>
+   <input type="submit" name="submit" value="Submit"> 
+</form>
+
+<?php
+echo "<h2>Your Input:</h2>";
+echo $name;
+echo "<br>";
+echo $username;
+echo "<br>";
+echo $password;
+echo "<br>";
+echo $gender;
+?>
+
+</body>
+</html>
